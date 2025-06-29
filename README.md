@@ -1,4 +1,4 @@
-# Driver_fatigue_system
+# Driver_fatigue_system 
 1. Introduction
    
 Driver fatigue is a leading cause of road accidents. Fatigue Detection utilizes
@@ -7,8 +7,8 @@ frequency, and posture—to detect early signs of drowsiness and issue timely al
 
 2. Objectives
 
- 1. Implement MediaPipe Face Mesh for real-time facial landmark detection.
- 2. Compute EAR to monitor prolonged eye closure.
- 3. Detects yawning via lip aperture analysis.
- 4. Estimate gaze direction to assess driver attentiveness.
- 5. Issue audio/visual alerts when fatigue indicators are met.
+  Implement MediaPipe Face Mesh for real-time facial landmark detection.
+  Compute EAR to monitor prolonged eye closure.
+  Detects yawning via lip aperture analysis.
+  Estimate gaze direction to assess driver attentiveness.
+  Issue audio/visual alerts when fatigue indicators are met.

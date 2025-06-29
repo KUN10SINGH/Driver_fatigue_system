@@ -54,7 +54,7 @@ Current Features
 9. Session Metrics and Statistics
 ● Tracks and displays:
  ○ Session duration
- ○ Number of warning, alert, and critical events
+ ○ Number of warning, alert, and critical events 
 ● Visual indicators include progress bars for EAR, head pitch, and drowsiness
 score.
 ● Status labels change color based on alert level.

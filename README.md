@@ -4,6 +4,7 @@
 Driver fatigue is a leading cause of road accidents. Fatigue Detection utilizes
 MediaPipe’s Face Mesh and vision-based indicators—Eye Aspect Ratio (EAR), yawning
 frequency, and posture—to detect early signs of drowsiness and issue timely alerts.
+
 2.Objectives
 
 1. Implement MediaPipe Face Mesh for real-time facial landmark detection.
